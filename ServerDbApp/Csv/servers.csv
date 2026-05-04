@@ -1,0 +1,6 @@
+server_id;server_name
+1;Production Server
+2;Development Server
+3;Testing Server
+4;Backup Server
+5;Analytics Server

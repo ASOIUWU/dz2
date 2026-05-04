@@ -1,0 +1,15 @@
+db_id;server_id;db_name;size_gb
+1;1;CustomerDB;256
+2;1;OrdersDB;512
+3;1;InventoryDB;128
+4;2;DevCustomerDB;64
+5;2;DevOrdersDB;32
+6;3;TestCustomerDB;16
+7;3;TestOrdersDB;8
+8;3;TestInventoryDB;4
+9;4;BackupCustomerDB;1024
+10;4;BackupOrdersDB;2048
+11;5;AnalyticsDB;512
+12;5;ReportsDB;256
+13;1;LogsDB;64
+14;2;DevLogsDB;8
